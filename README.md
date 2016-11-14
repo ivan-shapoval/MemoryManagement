@@ -1,2 +1,2 @@
 # MemoryManagement
-reposotory for memory management tasks
+repository for memory management tasks
